@@ -86,7 +86,7 @@ celerybeat-schedule
 .venv
 venv/
 ENV/
-venv-masking/
+venv-carvana/
 
 # Spyder project settings
 .spyderproject
